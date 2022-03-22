@@ -35,8 +35,8 @@ extern "C" {
 }
 
  
-const char* ssid = "BeXi-c2VudGhpbGNmYTc3MQ";  
-const char* password = "boobieee"; 
+const char* ssid = "";  
+const char* password = ""; 
 
 const int FLEX_PIN = A0;
 const float VCC = 3.29; // Nodemcu Voltage
